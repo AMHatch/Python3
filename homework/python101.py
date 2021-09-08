@@ -79,3 +79,38 @@
 
 
 #Problem 5
+
+# print('''
+#     *
+#    ***
+#   *****
+#  *******
+# ''')
+
+# ^^^ sarcasim but it works ^^^
+
+# gap = " "
+# count = 1
+# gap_count = 3
+
+# while count < 11 and gap_count >= 0:
+#     print(gap * gap_count + '*' * count)
+#     count += 2
+#     gap_count += -1
+
+#problem 6
+# twas a tricky one. 
+
+
+# a = 1
+
+# while a <= 10:
+#     b = 1
+#     while b <= 10:
+#         c = (a * b)
+#         print(str(a) + " x " + str(b) + " = " + str(c))
+#         b = b + 1
+#     print('')
+#     a = a + 1
+
+
