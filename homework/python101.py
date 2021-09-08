@@ -17,8 +17,7 @@
 #     print("That's not a valid Input. Please choose between Good, Fair and Bad.")
 
 # total = tip + bill
-# "%.2f" % tip
-# "%.2f" % total
+
 # print('Your tip is $' + str("%.2f" % tip))
 # print('Your total is $' + str("%.2f" % total))
 
@@ -65,3 +64,18 @@
 
 #problem 4
 
+# height = int(input('Height?'))
+# width = int(input('Width?'))
+# gap = (width - 2) * " "
+# hcount = height - 1
+
+# print('*' * width)
+
+# while hcount - 1 > 0:
+#     print('*' + gap + '*')
+#     hcount += -1
+
+# print('*' * width)
+
+
+#Problem 5
