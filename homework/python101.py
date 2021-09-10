@@ -94,8 +94,6 @@
 # count = 1
 # gap_count = 3
 
-
-
 # while count < 11 and gap_count >= 0:
 #     print(gap * gap_count + '*' * count)
 #     count += 2
@@ -108,9 +106,9 @@
 # a = 1
 
 # while a <= 10:
-#     b = 1
+#     b = 1  
 #     while b <= 10:
-#         c = (a * b)
+#         c = (a * b)     
 #         print(f'{a} x {b} = {c}')
 #         b += 1
 #     print('')
